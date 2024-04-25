@@ -2,7 +2,8 @@
 
 - Rodar Makefile para buildar os containers do docker
 
-> make -f Makefile
+
+make -f Makefile
 
 - Rode o docker compose
 
