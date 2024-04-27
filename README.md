@@ -37,4 +37,5 @@ hadoop fs -put /user_data/Combined_Flights_2022.csv /datasets/flight
 ```
 
 # Referências
-- Mais informações em https://github.com/gbieul/spyrk-cluster 
+- Mais informações em https://github.com/gbieul/spyrk-cluster
+- Dataset utilizado em https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022/data
